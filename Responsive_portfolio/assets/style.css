@@ -1,0 +1,108 @@
+html{
+    width: 100%
+}
+
+h1.name{
+    float: left;
+    width: 100%;
+    padding: 25px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    text-align: center;
+}
+
+.mb-4{
+    padding-left: 10%;
+
+}
+
+.text-center, .md-form{
+    color: black;
+    font-weight: bold;
+}
+
+section.main_background, .mb-4{
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/9777c6e0-baae-4193-a55e-11c37df3182f/d1p7e3c-e6efdd58-a308-42e9-8e5e-0a6b2cfea8e0.jpg/v1/fill/w_500,h_500,q_75,strp/seamless_diamond_pattern_by_321impact_d1p7e3c-fullview.jpg");
+    background-repeat: repeat;
+    border-top: 2px solid #cccccc;
+    width: 100%;
+    height: 100%;
+    margin:0 auto;
+    padding-top: 15px;
+    padding-bottom: 100px;
+}
+
+div.paragraph_container{
+    background-color: #ffffff;
+    height: auto;
+    margin: 0px 0px;
+    padding: 20px 0 20px 0;
+    overflow: visible;
+}
+
+h1{
+    font-size: 28px;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h1.paragraph_headline{
+    position: relative;
+    float: left;
+    margin: 20px 0 20px 0;
+    padding-left: 20px;
+}
+
+p{
+    color: #777777;
+    line-height: 1.5;
+    margin: 0;
+    text-align: justify;
+}
+
+h4{
+    font-size: small;
+}
+
+h1.paragraph_headline{
+    color:blue;
+}
+
+div.paragraph_image_wrapper{
+    position: relative;
+    clear: both;
+    border-top: 2px solid #dddddd;
+    margin: 20px;
+    padding-top: 25px;
+    height: auto;
+}
+
+div.footer{
+    height: 60px;
+    color: #ffffff;
+    background-color: #666666;
+    border-top: 6px solid #4aaaa5;
+    text-align: center;
+}
+
+h6{
+    font-weight: 100;
+}
+
+div.generic_profile{
+    float: left;
+    position: relative;
+    margin: 20px 20px 0 20px;
+}
+
+div.project_div{
+    float: left;
+    position: absolute;
+    bottom: 40px;
+    width: 100%;
+    padding: 10px 0;
+    text-align: center;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-size: 23px;
+}
