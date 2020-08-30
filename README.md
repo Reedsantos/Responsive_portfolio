@@ -1,6 +1,6 @@
 # Responsive-Portfolio <img src='https://img.shields.io/badge/License-MIT-black' alt='github badge'>
 ## Description
-This application uses html, css, and bootstrap to deliver a responsive mock portfolio page with functional buttons to navigate the app. [Here](https://reedsantos.github.io/Magical-Password-Generator/) is the deployed link.
+This application uses html, css, and bootstrap to deliver a responsive mock portfolio page with functional buttons to navigate the app. [Here](https://reedsantos.github.io/Responsive_portfolio/) is the deployed link.
 
             
 ## Usage
